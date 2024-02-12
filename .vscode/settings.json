@@ -1,0 +1,12 @@
+{
+    "cucumberautocomplete.steps": [ "pom/**/*.{ts,js}" ],
+    "cucumberautocomplete.syncfeatures": "features/**/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": false,
+    "editor.quickSuggestions": {
+    "comments": false,
+    "strings": true,
+    "other": true
+    },
+    "cucumberautocomplete.strictGherkinValidation": false,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
